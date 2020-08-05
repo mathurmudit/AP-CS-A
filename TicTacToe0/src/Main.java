@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Main {
 	public static void main(String[] args) {
 	    //Create an instance of the TicTacToeGame Class here and 
